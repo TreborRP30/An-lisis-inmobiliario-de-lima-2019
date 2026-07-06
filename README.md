@@ -1,5 +1,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)
+
 
 # An-lisis-inmobiliario-de-lima-2019
 
