@@ -3,18 +3,27 @@
 ![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green?style=for-the-badge)
 
 
-# An-lisis-inmobiliario-de-lima-2019
+# Análisis Inmobiliario de Lima 🏙️
 
 Este repositorio documenta un análisis exhaustivo del mercado inmobiliario en la ciudad de Lima durante el año 2019. El proyecto busca extraer insights clave del sector, evaluando la fluctuación de precios, identificando zonas de alta demanda y revelando oportunidades estratégicas de inversión inmobiliaria a través de los datos.
 
-**🛠️ Tecnologías y Herramientas**
+## 📑 Tabla de Contenidos
+* [Tecnologías y Herramientas](#tecnologias-y-herramientas)
+* [Objetivos y Alcance](#objetivos-y-alcance)
+* [Limpieza de Datos](#limpieza-de-datos)
+* [Resultados y Dashboard](#resultados-y-dashboard)
+
+## 🛠️ Tecnologías y Herramientas**
 
 Lenguaje y Procesamiento: Python (Pandas, NumPy) para la limpieza y análisis exploratorio de datos (EDA).
+
 Gestión de Datos: SQL para la extracción, filtrado y estructuración de la información.
+
 Control de Versiones: Git y GitHub.
+
 Dashboard e Interactividad:Streamlit para el despliegue del panel interactivo y visualización de métricas.
 
-**📊 Objetivos y Alcance**
+## 📊 Objetivos y Alcance**
 
 Identificación de Tendencias: Mapear el comportamiento de los precios por metro cuadrado según los diferentes distritos de Lima.
 
