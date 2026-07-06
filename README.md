@@ -1,6 +1,7 @@
-# An-lisis-inmobiliario-de-lima-2019
 ![Python](https://img.shields.io/badge/Python-3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.x-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+# An-lisis-inmobiliario-de-lima-2019
 
 Este repositorio documenta un análisis exhaustivo del mercado inmobiliario en la ciudad de Lima durante el año 2019. El proyecto busca extraer insights clave del sector, evaluando la fluctuación de precios, identificando zonas de alta demanda y revelando oportunidades estratégicas de inversión inmobiliaria a través de los datos.
 
