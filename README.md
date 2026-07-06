@@ -14,4 +14,5 @@ Dashboard e Interactividad:Streamlit para el despliegue del panel interactivo y 
 Identificación de Tendencias: Mapear el comportamiento de los precios por metro cuadrado según los diferentes distritos de Lima.
 
 Optimización de Datos: Transformar una base de datos cruda en información estructurada y lista para su consumo.
+
 Toma de Decisiones: Construir un dashboard dinámico que permita a usuarios finales explorar las métricas clave del mercado limeño en 2019 de manera intuitiva.
